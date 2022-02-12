@@ -9,6 +9,19 @@
     <copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright>
     <lastBuildDate>Fri, 07 Jan 2022 23:33:52 +1000</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Links</title>
+      <link>/links/</link>
+      <pubDate>Sat, 12 Feb 2022 18:14:11 +1000</pubDate>
+      
+      <guid>/links/</guid>
+      <description>Socials @SleepmodeAU
+I (unfortunately) use Twitter a lot. Follow me there to keep up with my day-to-day thoughts on things and maybe even make fun of me for them.
+&amp;ldquo;Content&amp;rdquo; I stream on Twitch and occasionally make YouTube videos. You can follow me on either (maybe even both) of those platforms if you&amp;rsquo;re into that sort of thing.
+twitch.tv/SleepmodeAU
+No schedule, currently. Streams consist of all kinds of things, but expect a lot of fighting games, OutRun 2 and Time Crisis.</description>
+    </item>
+    
+    <item>
       <title>My New Year&#39;s Resolution</title>
       <link>/posts/new-years-resolution/</link>
       <pubDate>Fri, 07 Jan 2022 23:33:52 +1000</pubDate>
@@ -66,7 +79,7 @@ For what it&amp;rsquo;s worth, the old blog is not being deleted, just deprecate
       <guid>/about/</guid>
       <description>Orin (aka Sleepmode)
 I&amp;rsquo;m an Australian video game enthusiast with a particular love of fighting games and arcade-style tests of skill. This place is usually where you can find me writing about those kinds of things. Older writings can be found on my Wordpress Blog, which is no longer in use because I hate QOL features being locked behind a paywall.
-Links to my twitter, twitch and youtube channels can all be found below.</description>
+Links to my Twitter, Twitch and Youtube channels can all be found below, as well as on my linkspage.</description>
     </item>
     
   </channel>
