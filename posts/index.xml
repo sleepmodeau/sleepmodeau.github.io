@@ -6,8 +6,143 @@
 		<generator>Hugo -- gohugo.io</generator>
 		<language>en-us</language>
 		<copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright>
-		<lastBuildDate>Sat, 12 Feb 2022 20:57:22 +1000</lastBuildDate>
+		<lastBuildDate>Thu, 10 Mar 2022 03:01:58 +1000</lastBuildDate>
 		<atom:link href="/posts/index.xml" rel="self" type="application/rss+xml" />
+		
+		<item>
+			<title>KOF XV Balance Change Proposals</title>
+			<link>/posts/kofxv-change-wishlist/</link>
+			<pubDate>Thu, 10 Mar 2022 03:01:58 +1000</pubDate>
+			
+			<guid>/posts/kofxv-change-wishlist/</guid>
+			<description>I&amp;rsquo;ve been playing The King of Fighters XV a lot lately. I think the game is very good, and overall the balance is pretty spot-on, but there are a few things that I think warrant some changes &amp;ndash; nothing drastic, just a few quality of life changes here and there. I&amp;rsquo;m putting them all here so you don&amp;rsquo;t have to see them all over your timeline. I&amp;rsquo;ll try to justify every proposal I&amp;rsquo;m making here.</description>
+			<content type="html"><![CDATA[<p>I&rsquo;ve been playing <em>The King of Fighters XV</em> a lot lately. I think the game is very good, and overall the balance is pretty spot-on, but there are a few things that I think warrant some changes &ndash; nothing drastic, just a few quality of life changes here and there. I&rsquo;m putting them all here so you don&rsquo;t have to see them all over your timeline. I&rsquo;ll try to justify every proposal I&rsquo;m making here. This is by no means complete, and there are a lot of characters that I can&rsquo;t speak on, so feel free to make your own thoughts and opinions known to me. I appreciate the discussion.</p>
+<hr>
+<h2 id="system">System</h2>
+<ul>
+<li>
+<p>Reduce movement input lockout on run to 6F<br>
+<em>Please god just let me move around more. I get that SNK wanted to make movement a bit more committal but this is just ridiculous. Movement being the way it is right now actually contributes a lot to zoning being as strong as it is, too.</em></p>
+</li>
+<li>
+<p>Change 4214 inputs back to 421<br>
+<em>Why was this change made? We didn&rsquo;t change DP motions to 6236. This just screws up anyone who instinctively ends on 1 for these motions and there&rsquo;s no real reason for it to be this way.</em></p>
+</li>
+</ul>
+<h2 id="ángel">Ángel</h2>
+<ul>
+<li>Increase frame advantage on Finish: Grapple Kick (Unchain Finish 236C)<br>
+<em>Given that this is the ender for one of Ángel&rsquo;s most consistent light confirms, the fact that it both gives her minimal frame advantage and sends the opponent full screen kind of hurts. It shouldn&rsquo;t be enough to guarantee a safejump or anything, but it should be enough to let Ángel actually gain meaningful ground after landing it.</em></li>
+</ul>
+<h2 id="ash-crimson">Ash Crimson</h2>
+<ul>
+<li>Reduce lower hurtbox on 4D/6D so it can go over lows<br>
+<em>While Ash is built around using pressure resets to force mistakes, his lack of character-specific mixup tools means the mistakes he wants to force are basically just pseudo-frame traps and whiff punishes. A great way to supplement this is by making his Floreal series go over low attacks, which it doesn&rsquo;t currently do. This would give Ash an excellent means of beating low-commitment checks on his pressure.</em></li>
+</ul>
+<h2 id="athena-asamiya">Athena Asamiya</h2>
+<ul>
+<li>Reduce knockback on final hit of Psycho Sword (623P)<br>
+<em>This would mainly be used to allow Athena to super cancel into Shining Crystal Bit from the final hit of Psycho Sword midscreen. Currently she can only do that combo in the corner.</em></li>
+</ul>
+<h2 id="iori-yagami">Iori Yagami</h2>
+<ul>
+<li>Increase range on 6A<br>
+<em>Some characters get to have far crazier buttons they can cancel for a combo. Iori should be allowed to have his arms back.</em></li>
+</ul>
+<h2 id="joe-higashi">Joe Higashi</h2>
+<ul>
+<li>Reduce stun damage on Bakuretsuken (623P)<br>
+<em>Just to make his guaranteed stun combos less accessible.</em></li>
+</ul>
+<h2 id="kula-diamond">Kula Diamond</h2>
+<ul>
+<li>
+<p>Decrease startup time on f.C<br>
+<em>Why does this button have like a year&rsquo;s worth of startup frames? More characters have long-range buttons that lead to good reward while being much faster than this button currently is, and since &ldquo;cancelling far buttons&rdquo; was Kula&rsquo;s thing first, she deserves to still be good at it.</em></p>
+</li>
+<li>
+<p>Increase j.A hitbox horizontally behind Kula<br>
+<em>SNK gave Kula a cross-up button and then chickened out halfway through by making it almost impossible to actually use for its intended purpose. I hardly think that Kula would be broken if she had a functional cross-up.</em></p>
+</li>
+<li>
+<p>Remove knockdown property from second hit of EX Falling Snowman (22AC)<br>
+<em>The funny friend setplay projectile doesn&rsquo;t even work midscreen, the very least that should be done is letting it actually be useful in the corner.</em></p>
+</li>
+</ul>
+<h2 id="ralf-jones">Ralf Jones</h2>
+<ul>
+<li>
+<p>Reduce upper hitbox on f.D<br>
+<em>I&rsquo;m completely okay with Ralf being a footsies monster in this game, but he&rsquo;s already got far C to control the skies, and far D also being able to do that turns it into a button that just does everything for him. A footsies monster should have to pick and choose their pokes, which is what this change should do.</em></p>
+</li>
+<li>
+<p>Increase recovery on non-EX versions of Dynamite Ralf Punch (214P)<br>
+<em>Ralf can whiff this pretty safely right now, which is quite strong considering that its upper-body invulnerability makes it a pretty nice anti-air. You&rsquo;d want to increase the recovery enough to allow consistent whiff punishes from slight distances, but not so much that he can&rsquo;t use it as a way to delete fireballs from a larger distance.</em></p>
+</li>
+</ul>
+<h2 id="ramón">Ramón</h2>
+<ul>
+<li>
+<p>Allow 3D to combo after A normals<br>
+<em>I&rsquo;m just gonna chance the idea that he&rsquo;d be a much more stable character if he had better combos from lights than&hellip; [checks notes] 2B into Rush Combo. Fuckin, yikes, dude.</em></p>
+</li>
+<li>
+<p>Reduce startup on 2C and 5CD<br>
+<em>Ramón has two pretty decent pokes in these buttons, which are held back by being dirt slow. Speeding up 2C just makes it a more viable footsie tool (which he kind of sorely needs), and speeding up 5CD not only does that, but would also allow him to combo into it after 3D Quick Max, which would help his ability to cash out combos with Climax, since 5CD is his only real way to land a level 1 cross chop super.</em></p>
+</li>
+</ul>
+<h2 id="shermie">Shermie</h2>
+<ul>
+<li>
+<p>Allow super cancels from Shermie Cute (236K after Shermie Spiral/Clutch)<br>
+<em>Currently, Shermie only wants to use Shermie Cute if it will win the round, because it absolutely kills her oki otherwise. A damage/oki trade-off is totally okay, but if we&rsquo;re going to make her make that decision, then at least let her do some DAMAGE like Clark can.</em></p>
+</li>
+<li>
+<p>Reduce knockback on EX Shermie Cute (236K after EX Shermie Spiral/Clutch)<br>
+<em>Shermie has this really cool extension after EX Spiral and Clutch where she can do a microdash into Shermie Whip. Unfortunately, this is prohibitively difficult, which isn&rsquo;t ideal considering that her ability to get a follow-up after EX Cute is extremely limited if she doesn&rsquo;t want to immediately cash out a super. Ideally you&rsquo;d reduce the knockback so that you don&rsquo;t have to microdash to get the Whip.</em></p>
+</li>
+</ul>
+<h2 id="terry-bogard">Terry Bogard</h2>
+<ul>
+<li>
+<p>Increase recovery time on C Burn Knuckle (214C) so that it isn&rsquo;t plus on block from long distance<br>
+<em>So like, we can all agree that this is the main thing that makes Terry absolutely cracked, right? The guy is basically using it as a movement option, and it&rsquo;s a powerful one, considering that he gets in for free when he does it. Using the funny advancing special as a burst movement option should be Andy&rsquo;s thing, anyway.</em></p>
+</li>
+<li>
+<p>Reduce pushback on block for EX Crack Shoot (214BD) so all characters can throw punish<br>
+<em>EX Crack Shoot is a 16F overhead. This would be absolutely fucked if it did more damage or started a combo, but fortunately, it does neither of those things, so I think Terry should keep it because it&rsquo;s funny. What&rsquo;s less funny is that even if the opponent guesses right, he&rsquo;s still safe because he&rsquo;s -2 with pushback on block. Allowing everyone to punish this with a throw on block seems like a good counterbalance to an unseeable &ndash; but pretty low reward &ndash; overhead.</em></p>
+</li>
+</ul>
+<h2 id="vanessa">Vanessa</h2>
+<ul>
+<li>
+<p>Increase recovery of C Dash Puncher ([4]6C)<br>
+<em>Not sure if I want it punishable or just to make it so her turn is Definitively Over if it gets blocked, but it definitely needs to not be as safe as it is. I mean, it&rsquo;s basically Sol Badguy&rsquo;s Grand Viper, she should have to take on some of the risk that Sol takes on with his funny low profile advancing launcher.</em></p>
+</li>
+<li>
+<p>Reduce launch height of Puncher Upper (6A after Puncher Vision) so that C Dash Puncher does not connect<br>
+<em>The use of C Dash Puncher in Vanessa&rsquo;s corner juggles is the primary factor in the absolutely insane damage of her 0.5 bar combos. This change acts to bring her damage in line without significantly changing her combo theory. She&rsquo;s still getting great damage off that 2B, don&rsquo;t worry.</em></p>
+</li>
+</ul>
+<h2 id="whip">Whip</h2>
+<ul>
+<li>
+<p>Allow early hit of 3A to cancel to special moves<br>
+<em>Currently, Whip&rsquo;s combos are very very inconsistent, especially since she lost the ability to use parts of her Strength Shot series as combo pieces from XIV. Letting her do something like cl.C 3A into a special move seems like it would be fine.</em></p>
+</li>
+<li>
+<p>Restore the first hit of Strength Shot &ldquo;Code: Strength&rdquo; (63214B)<br>
+<em>This move currently does actually nothing. Sure it&rsquo;s plus on block and starts a combo on hit, but like. Who cares? It takes so long to impact that no one is ever going to just sit there and take it. Letting her have a real pressure reset option would give Whip a way to actually enforce what little regular KOF she gets to play.</em></p>
+</li>
+<li>
+<p>Reduce knockback on EX Strength Shot Type A &ldquo;Code: Superior&rdquo; (63214AC)<br>
+<em>The idea here is to allow Whip to use 2D as a follow-up to this move outside of the corner. Her combos in general kind of suck, so giving her this much seems warranted.</em></p>
+</li>
+</ul>
+<hr>
+<p>I hope all of this seems sensible. Again, let me know what you think. This is an interesting discussion to have!</p>
+]]></content>
+		</item>
 		
 		<item>
 			<title>Learning to Love, to Learn and to Let Go</title>
