@@ -17,6 +17,7 @@
 			<guid>/posts/kofxv-change-wishlist/</guid>
 			<description>I&amp;rsquo;ve been playing The King of Fighters XV a lot lately. I think the game is very good, and overall the balance is pretty spot-on, but there are a few things that I think warrant some changes &amp;ndash; nothing drastic, just a few quality of life changes here and there. I&amp;rsquo;m putting them all here so you don&amp;rsquo;t have to see them all over your timeline. I&amp;rsquo;ll try to justify every proposal I&amp;rsquo;m making here.</description>
 			<content type="html"><![CDATA[<p>I&rsquo;ve been playing <em>The King of Fighters XV</em> a lot lately. I think the game is very good, and overall the balance is pretty spot-on, but there are a few things that I think warrant some changes &ndash; nothing drastic, just a few quality of life changes here and there. I&rsquo;m putting them all here so you don&rsquo;t have to see them all over your timeline. I&rsquo;ll try to justify every proposal I&rsquo;m making here. This is by no means complete, and there are a lot of characters that I can&rsquo;t speak on, so feel free to make your own thoughts and opinions known to me. I appreciate the discussion.</p>
+<p><strong>EDIT (11/03/2022):</strong> I forgot that Athena could do the funny Freeza ball super in the air, so the change to make Psycho Sword &gt; Shining Crystal Bit consistent midscreen was unnecessary. Just do the funny Freeza ball.</p>
 <hr>
 <h2 id="system">System</h2>
 <ul>
@@ -38,11 +39,6 @@
 <ul>
 <li>Reduce lower hurtbox on 4D/6D so it can go over lows<br>
 <em>While Ash is built around using pressure resets to force mistakes, his lack of character-specific mixup tools means the mistakes he wants to force are basically just pseudo-frame traps and whiff punishes. A great way to supplement this is by making his Floreal series go over low attacks, which it doesn&rsquo;t currently do. This would give Ash an excellent means of beating low-commitment checks on his pressure.</em></li>
-</ul>
-<h2 id="athena-asamiya">Athena Asamiya</h2>
-<ul>
-<li>Reduce knockback on final hit of Psycho Sword (623P)<br>
-<em>This would mainly be used to allow Athena to super cancel into Shining Crystal Bit from the final hit of Psycho Sword midscreen. Currently she can only do that combo in the corner.</em></li>
 </ul>
 <h2 id="iori-yagami">Iori Yagami</h2>
 <ul>
@@ -116,7 +112,7 @@
 <h2 id="vanessa">Vanessa</h2>
 <ul>
 <li>
-<p>Increase recovery of C Dash Puncher ([4]6C)<br>
+<p>Increase recovery of Dash Puncher ([4]6P)<br>
 <em>Not sure if I want it punishable or just to make it so her turn is Definitively Over if it gets blocked, but it definitely needs to not be as safe as it is. I mean, it&rsquo;s basically Sol Badguy&rsquo;s Grand Viper, she should have to take on some of the risk that Sol takes on with his funny low profile advancing launcher.</em></p>
 </li>
 <li>
