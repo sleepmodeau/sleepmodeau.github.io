@@ -1,20 +1,20 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 	<channel>
 		<title>Posts on Sleepmode</title>
-		<link>/posts/</link>
+		<link>https://sleepmodeau.github.io/posts/</link>
 		<description>Recent content in Posts on Sleepmode</description>
 		<generator>Hugo -- gohugo.io</generator>
 		<language>en-us</language>
 		<copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright>
 		<lastBuildDate>Thu, 10 Mar 2022 03:01:58 +1000</lastBuildDate>
-		<atom:link href="/posts/index.xml" rel="self" type="application/rss+xml" />
+		<atom:link href="https://sleepmodeau.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
 		
 		<item>
 			<title>KOF XV Balance Change Proposals</title>
-			<link>/posts/kofxv-change-wishlist/</link>
+			<link>https://sleepmodeau.github.io/posts/kofxv-change-wishlist/</link>
 			<pubDate>Thu, 10 Mar 2022 03:01:58 +1000</pubDate>
 			
-			<guid>/posts/kofxv-change-wishlist/</guid>
+			<guid>https://sleepmodeau.github.io/posts/kofxv-change-wishlist/</guid>
 			<description>I&amp;rsquo;ve been playing The King of Fighters XV a lot lately. I think the game is very good, and overall the balance is pretty spot-on, but there are a few things that I think warrant some changes &amp;ndash; nothing drastic, just a few quality of life changes here and there. I&amp;rsquo;m putting them all here so you don&amp;rsquo;t have to see them all over your timeline. I&amp;rsquo;ll try to justify every proposal I&amp;rsquo;m making here.</description>
 			<content type="html"><![CDATA[<p>I&rsquo;ve been playing <em>The King of Fighters XV</em> a lot lately. I think the game is very good, and overall the balance is pretty spot-on, but there are a few things that I think warrant some changes &ndash; nothing drastic, just a few quality of life changes here and there. I&rsquo;m putting them all here so you don&rsquo;t have to see them all over your timeline. I&rsquo;ll try to justify every proposal I&rsquo;m making here. This is by no means complete, and there are a lot of characters that I can&rsquo;t speak on, so feel free to make your own thoughts and opinions known to me. I appreciate the discussion.</p>
 <p><strong>EDIT (11/03/2022):</strong> I forgot that Athena could do the funny Freeza ball super in the air, so the change to make Psycho Sword &gt; Shining Crystal Bit consistent midscreen was unnecessary. Just do the funny Freeza ball.</p>
@@ -142,10 +142,10 @@
 		
 		<item>
 			<title>Learning to Love, to Learn and to Let Go</title>
-			<link>/posts/love-learn-let-go/</link>
+			<link>https://sleepmodeau.github.io/posts/love-learn-let-go/</link>
 			<pubDate>Sat, 12 Feb 2022 20:57:22 +1000</pubDate>
 			
-			<guid>/posts/love-learn-let-go/</guid>
+			<guid>https://sleepmodeau.github.io/posts/love-learn-let-go/</guid>
 			<description>Prior to Guilty Gear Strive and Dragon Ball FighterZ, Arc System Works&#39; three most prolific and popular fighting games were Guilty Gear XX Accent Core +R, Guilty Gear Xrd Rev2 and BlazBlue Centralfiction. These are all games I&amp;rsquo;ve spent varying &amp;ndash; but generally large &amp;ndash; amounts of time with, and my opinions of them have varied accordingly. My rocky relationship with all three of these games is well-documented, here and elsewhere, but I feel like I&amp;rsquo;ve come to a pretty clear idea of how I feel about all these games.</description>
 			<content type="html"><![CDATA[<p>Prior to <em>Guilty Gear Strive</em> and <em>Dragon Ball FighterZ</em>, Arc System Works' three most prolific and popular fighting games were <em>Guilty Gear XX Accent Core +R</em>, <em>Guilty Gear Xrd Rev2</em> and <em>BlazBlue Centralfiction</em>. These are all games I&rsquo;ve spent varying &ndash; but generally large &ndash; amounts of time with, and my opinions of them have varied accordingly. My rocky relationship with all three of these games is well-documented, here and elsewhere, but I feel like I&rsquo;ve come to a pretty clear idea of how I feel about all these games. That&rsquo;s what we&rsquo;re talking about this time.</p>
 <h2 id="learning-to-love-guilty-gear-xrd-and-new-perspectives">Learning to Love: Guilty Gear Xrd and New Perspectives</h2>
@@ -199,10 +199,10 @@ Maybe I&rsquo;m just a fighting game oyaji after all, at the ripe old age of 27,
 		
 		<item>
 			<title>My New Year&#39;s Resolution</title>
-			<link>/posts/new-years-resolution/</link>
+			<link>https://sleepmodeau.github.io/posts/new-years-resolution/</link>
 			<pubDate>Fri, 07 Jan 2022 23:33:52 +1000</pubDate>
 			
-			<guid>/posts/new-years-resolution/</guid>
+			<guid>https://sleepmodeau.github.io/posts/new-years-resolution/</guid>
 			<description>In my last piece, I may have said a few things about my feelings on Guilty Gear XX Accent Core +R and BlazBlue Central Fiction. Those feelings may have been largely negative feelings where I admitted my frustrations and losses came from a lack of knowledge, but then I rationalised my lack of desire to play these games as simply not wanting to fill those gaps in my knowledge.
 I can&amp;rsquo;t help but feel like I was scrubquoting hard in doing so.</description>
 			<content type="html"><![CDATA[<p>In <a href="https://sleepmodeau.github.io/posts/2021-games-recap/">my last piece</a>, I may have said a few things about my feelings on <em>Guilty Gear XX Accent Core +R</em> and <em>BlazBlue Central Fiction</em>. Those feelings may have been largely negative feelings where I admitted my frustrations and losses came from a lack of knowledge, but then I rationalised my lack of desire to play these games as simply not wanting to fill those gaps in my knowledge.</p>
@@ -228,10 +228,10 @@ Do literally <strong>anything</strong> except say words that probably won&rsquo;
 		
 		<item>
 			<title>Sleepmode&#39;s 2021 Gaming Recap</title>
-			<link>/posts/2021-games-recap/</link>
+			<link>https://sleepmodeau.github.io/posts/2021-games-recap/</link>
 			<pubDate>Sun, 02 Jan 2022 15:52:54 +1000</pubDate>
 			
-			<guid>/posts/2021-games-recap/</guid>
+			<guid>https://sleepmodeau.github.io/posts/2021-games-recap/</guid>
 			<description>So 2021 happened. I was originally going to introduce this piece with a brief overview of the political situation under COVID-19 as a way to contrast how awful the year was with some personal levity, but the idea of jumping from &amp;ldquo;the far right is growing out of an anti-vaccine movement while governments continue to glibly allow their citizens to die from a preventable disease and ordinary people try pick up the slack where their leaders and fascist/fascist-adjacent neighbours have failed&amp;rdquo; to talking about the video games I played this past year felt like a bit too strong of a tonal whiplash.</description>
 			<content type="html"><![CDATA[<p>So 2021 happened. I was originally going to introduce this piece with a brief overview of the political situation under COVID-19 as a way to contrast how awful the year was with some personal levity, but the idea of jumping from &ldquo;the far right is growing out of an anti-vaccine movement while governments continue to glibly allow their citizens to die from a preventable disease and ordinary people try pick up the slack where their leaders and fascist/fascist-adjacent neighbours have failed&rdquo; to talking about the video games I played this past year felt like a bit too strong of a tonal whiplash. This preamble has done nothing to avoid that whiplash, but at least I tried.</p>
 <p>Anyway, I played some video games in 2021. Let&rsquo;s talk about them.</p>
@@ -328,10 +328,10 @@ The third time, I finally got it. I still don&rsquo;t actively play the game, mo
 		
 		<item>
 			<title>Create.</title>
-			<link>/posts/creativity/</link>
+			<link>https://sleepmodeau.github.io/posts/creativity/</link>
 			<pubDate>Fri, 19 Nov 2021 16:14:37 +1000</pubDate>
 			
-			<guid>/posts/creativity/</guid>
+			<guid>https://sleepmodeau.github.io/posts/creativity/</guid>
 			<description>I used to be very insecure about my creative ability.
 This insecurity has long since passed, now that I&amp;rsquo;m older and generally more confident, but it&amp;rsquo;s something that I do reflect on from time to time. After all, when you&amp;rsquo;re surrounded by so many people who can do incredible things &amp;ndash; visual artists, graphic designers, musicians, voice over artists and just about everything else you can think of &amp;ndash; it&amp;rsquo;s hard not to feel like you need to &amp;ldquo;measure up&amp;rdquo; to them in some way, and equally hard not to feel discouraged or even depressed when you can&amp;rsquo;t &amp;ldquo;create&amp;rdquo; works of art the way the people around you are seemingly able to.</description>
 			<content type="html"><![CDATA[<p>I used to be very insecure about my creative ability.</p>
@@ -367,10 +367,10 @@ Of course, the creation of art, and &ldquo;creativity&rdquo; in general, doesn&r
 		
 		<item>
 			<title>New Players Are Not Stupid Pt.2</title>
-			<link>/posts/new-players-are-not-stupid-2/</link>
+			<link>https://sleepmodeau.github.io/posts/new-players-are-not-stupid-2/</link>
 			<pubDate>Wed, 06 Oct 2021 22:45:13 +1000</pubDate>
 			
-			<guid>/posts/new-players-are-not-stupid-2/</guid>
+			<guid>https://sleepmodeau.github.io/posts/new-players-are-not-stupid-2/</guid>
 			<description>I think, fundamentally, engaging with any video game (but especially a fighting game) is akin to a conversation between developer and player.
 As a developer, your goal should be to confidently communicate your game&amp;rsquo;s mechanics to your player, and trust that the player will be able to keep up. There&amp;rsquo;s a delicate balance here, though &amp;ndash; say too little, and your player won&amp;rsquo;t feel comfortable contributing to the conversation on their own.</description>
 			<content type="html"><![CDATA[<p>I think, fundamentally, engaging with any video game (but especially a fighting game) is akin to a conversation between developer and player.<br>
@@ -441,10 +441,10 @@ There really isn&rsquo;t much more to say. Instead of giving players a sub-optim
 		
 		<item>
 			<title>Exodus</title>
-			<link>/posts/exodus/</link>
+			<link>https://sleepmodeau.github.io/posts/exodus/</link>
 			<pubDate>Fri, 01 Oct 2021 16:03:50 +1000</pubDate>
 			
-			<guid>/posts/exodus/</guid>
+			<guid>https://sleepmodeau.github.io/posts/exodus/</guid>
 			<description>Welcome.
 This is my new blog, hosted on Github Pages and running on Hugo (after much fighting with inscrutable software dev nerd shit). It&amp;rsquo;s here because I got sick of Wordpress being clunky and locking useful quality of life features behind a paywall. Hopefully this way you won&amp;rsquo;t need uBlock Origin so much.
 For what it&amp;rsquo;s worth, the old blog is not being deleted, just deprecated &amp;ndash; I&amp;rsquo;ll be keeping all of my old writings there for archival purposes.</description>
