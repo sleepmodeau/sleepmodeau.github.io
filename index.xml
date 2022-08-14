@@ -7,7 +7,18 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright>
-    <lastBuildDate>Thu, 19 May 2022 18:09:22 +1000</lastBuildDate><atom:link href="https://sleepmodeau.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 14 Aug 2022 19:25:13 +1000</lastBuildDate><atom:link href="https://sleepmodeau.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Evo 2022 Announcement Thoughts</title>
+      <link>https://sleepmodeau.github.io/posts/evo-announcement-thoughts/</link>
+      <pubDate>Sun, 14 Aug 2022 19:25:13 +1000</pubDate>
+      
+      <guid>https://sleepmodeau.github.io/posts/evo-announcement-thoughts/</guid>
+      <description>I&amp;rsquo;ve missed every discourse cycle for the past few months and god damn it I will not miss this one when there is #content to be created.
+Anyway, here are my scattered thoughts on some of the bigger announcements that were made at the 2022 edition of Evo, everyone&amp;rsquo;s favourite fighting game trade show masquerading as a tournament.1
+Capcom Capcom revealed two new characters for the upcoming Street Fighter 6 &amp;ndash; Juri Han and Kimberly.</description>
+    </item>
+    
     <item>
       <title>The Spectator&#39;s Guide to Bloody Roar Extreme</title>
       <link>https://sleepmodeau.github.io/posts/spectator-guide-brex/</link>
@@ -96,17 +107,6 @@ As a developer, your goal should be to confidently communicate your game&amp;rsq
       <description>Welcome.
 This is my new blog, hosted on Github Pages and running on Hugo (after much fighting with inscrutable software dev nerd shit). It&amp;rsquo;s here because I got sick of Wordpress being clunky and locking useful quality of life features behind a paywall. Hopefully this way you won&amp;rsquo;t need uBlock Origin so much.
 For what it&amp;rsquo;s worth, the old blog is not being deleted, just deprecated &amp;ndash; I&amp;rsquo;ll be keeping all of my old writings there for archival purposes.</description>
-    </item>
-    
-    <item>
-      <title>About</title>
-      <link>https://sleepmodeau.github.io/about/</link>
-      <pubDate>Mon, 17 May 2021 21:29:12 +1000</pubDate>
-      
-      <guid>https://sleepmodeau.github.io/about/</guid>
-      <description>Orin (aka Sleepmode)
-I&amp;rsquo;m an Australian video game enthusiast with a particular love of fighting games and arcade-style tests of skill. This place is usually where you can find me writing about those kinds of things. Older writings can be found on my Wordpress Blog, which is no longer in use because I hate QOL features being locked behind a paywall.
-Links to my Twitter, Twitch and Youtube channels can all be found below, as well as on my links page.</description>
     </item>
     
   </channel>
