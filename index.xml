@@ -7,13 +7,23 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>This work is licensed under a [WTFPL](http://www.wtfpl.net/about/) license.</copyright>
-    <lastBuildDate>Sun, 20 Nov 2022 12:35:47 +1000</lastBuildDate><atom:link href="https://sleepmodeau.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 29 Dec 2022 20:37:42 +1000</lastBuildDate><atom:link href="https://sleepmodeau.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Sleepmode Year In Review: 2022 Edition</title>
+      <link>https://sleepmodeau.github.io/posts/2022-recap/</link>
+      <pubDate>Thu, 29 Dec 2022 20:37:42 +1000</pubDate>
+      
+      <guid>https://sleepmodeau.github.io/posts/2022-recap/</guid>
+      <description>So, uh. I guess 2022 wasn&amp;rsquo;t exactly 2021 Hard Mode, but we can&amp;rsquo;t exactly say there were many&amp;hellip; systemic improvements to the stuff that was fucked about last year, either. I&amp;rsquo;m at least doing okay on a personal level, which means I&amp;rsquo;m in a better position to be working with others to fight for those systemic improvements at least!
+Anyway, this is gonna go on mostly the same beat as the last one of these, though it&amp;rsquo;s not gonna be focused exclusively on games.</description>
+    </item>
+    
     <item>
       <title>Regarding the NIKKE Piece</title>
-      <link>https://sleepmodeau.github.io/posts/regarding-nikke/</link>
+      <link>https://sleepmodeau.github.io/archived/regarding-nikke/</link>
       <pubDate>Sun, 20 Nov 2022 12:35:47 +1000</pubDate>
       
-      <guid>https://sleepmodeau.github.io/posts/regarding-nikke/</guid>
+      <guid>https://sleepmodeau.github.io/archived/regarding-nikke/</guid>
       <description>A short while ago I wrote a first impressions piece on the recently-released mobile game Goddess of Victory: NIKKE, where I blasted it for largely being &amp;ldquo;just another JRPG focused on DPS checks&amp;rdquo; rather than actually taking advantage of its core mechanical premise of being a Time Crisis-esque cover shooter. This involved a rundown of some of the game&amp;rsquo;s core mechanics that was, to put it mildly, extremely fucking wrong.</description>
     </item>
     
@@ -93,15 +103,6 @@ I&amp;rsquo;ve been on the Fediverse for a while, mostly just bumming about on m
       <guid>https://sleepmodeau.github.io/posts/new-years-resolution/</guid>
       <description>In my last piece, I may have said a few things about my feelings on Guilty Gear XX Accent Core +R and BlazBlue Central Fiction. Those feelings may have been largely negative feelings where I admitted my frustrations and losses came from a lack of knowledge, but then I rationalised my lack of desire to play these games as simply not wanting to fill those gaps in my knowledge.
 I can&amp;rsquo;t help but feel like I was scrubquoting hard in doing so.</description>
-    </item>
-    
-    <item>
-      <title>Sleepmode&#39;s 2021 Gaming Recap</title>
-      <link>https://sleepmodeau.github.io/posts/2021-games-recap/</link>
-      <pubDate>Sun, 02 Jan 2022 15:52:54 +1000</pubDate>
-      
-      <guid>https://sleepmodeau.github.io/posts/2021-games-recap/</guid>
-      <description>So 2021 happened. I was originally going to introduce this piece with a brief overview of the political situation under COVID-19 as a way to contrast how awful the year was with some personal levity, but the idea of jumping from &amp;ldquo;the far right is growing out of an anti-vaccine movement while governments continue to glibly allow their citizens to die from a preventable disease and ordinary people try pick up the slack where their leaders and fascist/fascist-adjacent neighbours have failed&amp;rdquo; to talking about the video games I played this past year felt like a bit too strong of a tonal whiplash.</description>
     </item>
     
   </channel>
