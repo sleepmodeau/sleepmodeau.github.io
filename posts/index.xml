@@ -6,8 +6,73 @@
 		<generator>Hugo -- gohugo.io</generator>
 		<language>en-us</language>
 		<copyright>This work is licensed under a [WTFPL](http://www.wtfpl.net/about/) license.</copyright>
-		<lastBuildDate>Sun, 19 Feb 2023 23:56:28 +1000</lastBuildDate>
+		<lastBuildDate>Sat, 10 Jun 2023 16:10:54 +1000</lastBuildDate>
 		<atom:link href="https://sleepmodeau.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+		
+		<item>
+			<title>Playing OutRun 2SP in $CURRENT_YEAR</title>
+			<link>https://sleepmodeau.github.io/posts/outrun-2-in-current-year/</link>
+			<pubDate>Sat, 10 Jun 2023 16:10:54 +1000</pubDate>
+			
+			<guid>https://sleepmodeau.github.io/posts/outrun-2-in-current-year/</guid>
+			<description>In 1986, a man named Yu Suzuki, along with a small handful of developers at SEGA AM2, would release an arcade racing game called OutRun. Suzuki had previously made some fairly successful motorcycle racing games for SEGA by way of Hang-On and Enduro Racer, and with OutRun, he sought to create a racing game predicated primarily on allowing players to enjoy the experience of driving and, in his words, &amp;ldquo;feel superior&amp;rdquo;1.</description>
+			<content type="html"><![CDATA[<p>In 1986, a man named Yu Suzuki, along with a small handful of developers at SEGA AM2, would release an arcade racing game called <em>OutRun</em>. Suzuki had previously made some fairly successful motorcycle racing games for SEGA by way of <em>Hang-On</em> and <em>Enduro Racer</em>, and with <em>OutRun</em>, he sought to create a racing game predicated primarily on allowing players to enjoy the experience of driving and, in his words, &ldquo;feel superior&rdquo;<sup id="fnref:1"><a href="#fn:1" class="footnote-ref" role="doc-noteref">1</a></sup>.  With incredible graphics for the time, a stellar soundtrack and shockingly well-realised driving physics, <em>OutRun</em> was a huge hit in arcades throughout the late 80s and even early 90s, and is one of the most influential and important games in the genre.</p>
+<p>In 2004, SEGA AM2 would release <em>OutRun 2SP</em>, an update of 2003&rsquo;s <em>OutRun 2</em>, into arcades. It is, without exaggeration, one of the greatest video games ever made. Here are your options for experiencing it.</p>
+<p>Bear in mind that SEGA&rsquo;s license to use the likeness of Ferrari cars expired a <em>long</em> time ago and they never bothered to renew it, so the game is technically abandonware, and obtaining it sits in a legal grey area that no one at SEGA is likely to care about.</p>
+<h2 id="outrun-2sp-sdx-arcade-datahttpsarchiveorgdownloadmotherload-of-dumpssega20lindbergh20yellow"><a href="https://archive.org/download/motherload-of-dumps/Sega%20Lindbergh%20Yellow/">OutRun 2SP SDX Arcade Data</a></h2>
+<p>My current preferred way to play, as it&rsquo;s literally just the data used in the beautifully extravagant cabinets that power <em>OutRun 2SP SDX</em>.</p>
+<p><img src="/img/or2spsdx.jpg" alt=""></p>
+<ul>
+<li>Arcade data played via <a href="https://teknoparrot.com/Home/Download">Teknoparrot</a>. Comes with all the moral hang-ups that stem from using Teknoparrot, but there&rsquo;s currently no JConfig alternative, and it&rsquo;s not like you were going to give the charlatans at Teknogods your money anyway</li>
+<li>Best option in terms of display, as it runs at a native 16:9 aspect ratio</li>
+<li>Compatibility is generally good, with only minor sound glitches that are either fairly unintrusive or resolve themselves pretty quickly</li>
+<li>Fantastic no-fuss controller support out of the box, with the only caveat being that Teknoparrot doesn&rsquo;t support the use of full analog axes for racing games, so you&rsquo;re either flooring the gas or not at all<sup id="fnref:2"><a href="#fn:2" class="footnote-ref" role="doc-noteref">2</a></sup></li>
+<li>Being arcade data, there&rsquo;s a decent amount of waiting involved, especially on startup. It&rsquo;s not an obscene amount of waiting, but there&rsquo;s enough waiting to be noticeable</li>
+<li>Has LAN multiplayer capability, and can even be taken online through the use of VPN software like <a href="https://www.radmin-vpn.com/">Radmin VPN</a>, though setting this up is finicky and involves punching IP addresses into Teknoparrot <em>and</em> going into the game&rsquo;s test menu to turn on the networking features<sup id="fnref:3"><a href="#fn:3" class="footnote-ref" role="doc-noteref">3</a></sup></li>
+<li>As long as you have a reasonable degree of familiarity with operating arcade software, you shouldn&rsquo;t have too much trouble. Setup for certain things can be finicky, but it has the best display options of the bunch and incredibly flexible controller mapping.  The shortcut to end a game early is Brake + View Change + Shift Up while stopped in first gear.  Have fun.</li>
+</ul>
+<h2 id="outrun-2-fxthttpdragonkingarcadecontrolscomstaticphppageaboutfxt"><a href="http://dragonking.arcadecontrols.com/static.php?page=AboutFXT">OutRun 2 FXT</a></h2>
+<p><em>OutRun 2 FXT</em> is a mod for the PC version of <em><a href="https://archive.org/details/OUTRUN2006C2C">OutRun 2006: Coast 2 Coast</a></em> that significantly improves the quality of life for an otherwise fairly shoddy PC port. That was the mid-2000s for you, I guess.</p>
+<p><img src="/img/or2fxt.jpg" alt=""></p>
+<ul>
+<li>Native PC port that could probably run on your smart fridge</li>
+<li>Renders 3D elements perfectly fine in 16:9, but menus and HUD elements get stretched out and look kinda shitty. FXT has an option to enable HD HUD elements, but your mileage may vary</li>
+<li>The main draw of the PC version is the fact that it&rsquo;s <em>OutRun 2006: Coast to Coast</em>, which means it just has more stuff. On top of <em>OutRun 2SP</em> itself, it&rsquo;s also got a full single player campaign mode with various races and missions to complete, as well as significantly more songs to choose from</li>
+<li>Controller support can be spotty, but most of the time it&rsquo;ll recognise whatever you throw at it. FXT provides extra compatibility options for steering wheels, including H-shifter support and even force feedback</li>
+<li>Online services for this game have been dead for a very long time, but you can very easily set up LAN games via the aforementioned Radmin VPN or a similar service. Doing so is significantly less painful than for <em>OutRun 2SP SDX</em> in Teknoparrot</li>
+<li>Out-of-the-box compatibility and performance isn&rsquo;t as good as the arcade data, but the PC release has the advantage of being an actual home release game, meaning it&rsquo;s much more full-featured, especially with the FXT mod improving the experience as much as it does. This is probably the best way to play the game online at the moment</li>
+</ul>
+<h2 id="outrun-online-arcade">OutRun Online Arcade</h2>
+<p>This is the long-defunct PS3 release of the game. Mostly loses out compared to the arcade and PC versions, but PS3 emulation is in a great spot and is only getting better, so it&rsquo;s worth keeping an eye on it.</p>
+<p><img src="/img/oroac.jpg" alt=""></p>
+<ul>
+<li>This is basically an upscaled port of the arcade version for the PS3, which means it&rsquo;s very no-frills, but a bit easier to use than playing the actual arcade data</li>
+<li>If playing on <a href="https://rpcs3.net/">RPCS3</a>, download via <a href="https://www.cfwaifu.com/nopaystation/">NoPayStation</a>. That option also applies if playing on real hardware, but you can install through <a href="https://github.com/bucanero/pkgi-ps3/releases/tag/v1.2.4">PKGi</a> directly on your PS3 as well<sup id="fnref:4"><a href="#fn:4" class="footnote-ref" role="doc-noteref">4</a></sup></li>
+<li>RPCS3 compatibility is pretty good. I drop frames every now and then, but my PC is proof that dinosaurs once roamed the earth, so I imagine if you&rsquo;re running anything equivalent to a GTX 1060 or later, you&rsquo;ll be fine</li>
+<li>Controller compatibility is, naturally, much more limited. RPCS3 doesn&rsquo;t have native racing wheel emulation, so you&rsquo;ll need to McGuyver a solution if you want to use anything other than a standard gamepad. I can&rsquo;t speak to any racing wheel compatibility on real hardware, so you&rsquo;re on your own for that one</li>
+<li>Commits the crime of having a significantly smaller number of available songs compared to the arcade or PC versions. You won&rsquo;t have any issues if you&rsquo;re happy to jam to &ldquo;Shiny World&rdquo; or &ldquo;Magical Sound Shower 1989&rdquo;, but I will explode if I don&rsquo;t get to do at least one run with <a href="https://www.youtube.com/watch?v=IvYxAheHpHQ">&ldquo;Keep Your Heart 1989&rdquo;</a> in the background</li>
+<li>Currently not compatible with RPCN (RPCS3&rsquo;s emulated PSN), but if/when it becomes compatible, it will probably be the most seamless way to play with others online</li>
+<li>Overall, <em>Online Arcade</em> is probably the most convenient option, but the least fully-featured at this point in time. Worth keeping an eye on, but it&rsquo;s hard to recommend over the arcade or PC releases</li>
+</ul>
+<div class="footnotes" role="doc-endnotes">
+<hr>
+<ol>
+<li id="fn:1">
+<p>I sure would feel &ldquo;superior&rdquo; driving a fucking Ferrari Testarossa at insane speeds down the highway&#160;<a href="#fnref:1" class="footnote-backref" role="doc-backlink">&#x21a9;&#xfe0e;</a></p>
+</li>
+<li id="fn:2">
+<p>This is really only relevant when you&rsquo;re looking to get a quick take-off at the start of a run, but you can just time your gas taps to get the same effect&#160;<a href="#fnref:2" class="footnote-backref" role="doc-backlink">&#x21a9;&#xfe0e;</a></p>
+</li>
+<li id="fn:3">
+<p>You should go into the test menu at least once anyway, just so you can turn on the 15-course continuous modes&#160;<a href="#fnref:3" class="footnote-backref" role="doc-backlink">&#x21a9;&#xfe0e;</a></p>
+</li>
+<li id="fn:4">
+<p>Obviously this requires custom firmware, but if you have a PS3 and haven&rsquo;t installed custom firmware on it, what the fuck are you doing?&#160;<a href="#fnref:4" class="footnote-backref" role="doc-backlink">&#x21a9;&#xfe0e;</a></p>
+</li>
+</ol>
+</div>
+]]></content>
+		</item>
 		
 		<item>
 			<title>Combo Expression</title>

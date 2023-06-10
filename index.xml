@@ -7,7 +7,16 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>This work is licensed under a [WTFPL](http://www.wtfpl.net/about/) license.</copyright>
-    <lastBuildDate>Sun, 19 Feb 2023 23:56:28 +1000</lastBuildDate><atom:link href="https://sleepmodeau.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 10 Jun 2023 16:10:54 +1000</lastBuildDate><atom:link href="https://sleepmodeau.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Playing OutRun 2SP in $CURRENT_YEAR</title>
+      <link>https://sleepmodeau.github.io/posts/outrun-2-in-current-year/</link>
+      <pubDate>Sat, 10 Jun 2023 16:10:54 +1000</pubDate>
+      
+      <guid>https://sleepmodeau.github.io/posts/outrun-2-in-current-year/</guid>
+      <description>In 1986, a man named Yu Suzuki, along with a small handful of developers at SEGA AM2, would release an arcade racing game called OutRun. Suzuki had previously made some fairly successful motorcycle racing games for SEGA by way of Hang-On and Enduro Racer, and with OutRun, he sought to create a racing game predicated primarily on allowing players to enjoy the experience of driving and, in his words, &amp;ldquo;feel superior&amp;rdquo;1.</description>
+    </item>
+    
     <item>
       <title>Combo Expression</title>
       <link>https://sleepmodeau.github.io/posts/combo-expression/</link>
@@ -91,18 +100,6 @@ Capcom Capcom revealed two new characters for the upcoming Street Fighter 6 &amp
       
       <guid>https://sleepmodeau.github.io/posts/love-learn-let-go/</guid>
       <description>Prior to Guilty Gear Strive and Dragon Ball FighterZ, Arc System Works&amp;rsquo; three most prolific and popular fighting games were Guilty Gear XX Accent Core +R, Guilty Gear Xrd Rev2 and BlazBlue Centralfiction. These are all games I&amp;rsquo;ve spent varying &amp;ndash; but generally large &amp;ndash; amounts of time with, and my opinions of them have varied accordingly. My rocky relationship with all three of these games is well-documented, here and elsewhere, but I feel like I&amp;rsquo;ve come to a pretty clear idea of how I feel about all these games.</description>
-    </item>
-    
-    <item>
-      <title>Links</title>
-      <link>https://sleepmodeau.github.io/links/</link>
-      <pubDate>Sat, 12 Feb 2022 18:14:11 +1000</pubDate>
-      
-      <guid>https://sleepmodeau.github.io/links/</guid>
-      <description>Socials twt/SleepmodeAU
-I (unfortunately) use Twitter a lot, and will probably continue to use it until it implodes due to one man&amp;rsquo;s unfathomable arrogance and ineptitude. Follow me there to keep up with my day-to-day thoughts on things and maybe even make fun of me for them.
-fedi/Sleepmode@gayrobot.club
-I&amp;rsquo;ve been on the Fediverse for a while, mostly just bumming about on my friend&amp;rsquo;s instance. This will mostly be relevant to you if you&amp;rsquo;re on FGC.</description>
     </item>
     
   </channel>
