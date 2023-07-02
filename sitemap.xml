@@ -2,25 +2,37 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://sleepmodeau.github.io/</loc>
+    <lastmod>2023-06-10T16:10:54+10:00</lastmod>
+  </url><url>
+    <loc>https://sleepmodeau.github.io/tags/arcade-games/</loc>
+    <lastmod>2023-06-10T16:10:54+10:00</lastmod>
+  </url><url>
     <loc>https://sleepmodeau.github.io/posts/outrun-2-in-current-year/</loc>
     <lastmod>2023-06-10T16:10:54+10:00</lastmod>
   </url><url>
     <loc>https://sleepmodeau.github.io/posts/</loc>
     <lastmod>2023-06-10T16:10:54+10:00</lastmod>
   </url><url>
-    <loc>https://sleepmodeau.github.io/</loc>
+    <loc>https://sleepmodeau.github.io/tags/</loc>
     <lastmod>2023-06-10T16:10:54+10:00</lastmod>
   </url><url>
     <loc>https://sleepmodeau.github.io/posts/combo-expression/</loc>
     <lastmod>2023-02-19T23:56:28+10:00</lastmod>
   </url><url>
+    <loc>https://sleepmodeau.github.io/tags/fighting-games/</loc>
+    <lastmod>2023-02-19T23:56:28+10:00</lastmod>
+  </url><url>
+    <loc>https://sleepmodeau.github.io/series/</loc>
+    <lastmod>2022-12-29T20:37:42+10:00</lastmod>
+  </url><url>
+    <loc>https://sleepmodeau.github.io/series/sleepmode-year-in-review/</loc>
+    <lastmod>2022-12-29T20:37:42+10:00</lastmod>
+  </url><url>
     <loc>https://sleepmodeau.github.io/posts/2022-recap/</loc>
     <lastmod>2022-12-29T20:37:42+10:00</lastmod>
   </url><url>
-    <loc>https://sleepmodeau.github.io/tags/</loc>
-    <lastmod>2022-12-29T20:37:42+10:00</lastmod>
-  </url><url>
-    <loc>https://sleepmodeau.github.io/tags/untagged/</loc>
+    <loc>https://sleepmodeau.github.io/tags/yearly-recap/</loc>
     <lastmod>2022-12-29T20:37:42+10:00</lastmod>
   </url><url>
     <loc>https://sleepmodeau.github.io/archived/</loc>
@@ -29,10 +41,16 @@
     <loc>https://sleepmodeau.github.io/archived/regarding-nikke/</loc>
     <lastmod>2022-11-20T12:35:47+10:00</lastmod>
   </url><url>
+    <loc>https://sleepmodeau.github.io/tags/untagged/</loc>
+    <lastmod>2022-11-20T12:35:47+10:00</lastmod>
+  </url><url>
     <loc>https://sleepmodeau.github.io/posts/melee-is-sick/</loc>
     <lastmod>2022-11-20T00:58:11+10:00</lastmod>
   </url><url>
     <loc>https://sleepmodeau.github.io/posts/vroid-vrchat-optimisation-guide/</loc>
+    <lastmod>2022-11-08T17:13:32+10:00</lastmod>
+  </url><url>
+    <loc>https://sleepmodeau.github.io/tags/other/</loc>
     <lastmod>2022-11-08T17:13:32+10:00</lastmod>
   </url><url>
     <loc>https://sleepmodeau.github.io/posts/evo-announcement-thoughts/</loc>
@@ -48,6 +66,9 @@
     <lastmod>2022-02-12T20:57:22+10:00</lastmod>
   </url><url>
     <loc>https://sleepmodeau.github.io/links/</loc>
+    <lastmod>2022-02-12T18:14:11+10:00</lastmod>
+  </url><url>
+    <loc>https://sleepmodeau.github.io/links/links/</loc>
     <lastmod>2022-02-12T18:14:11+10:00</lastmod>
   </url><url>
     <loc>https://sleepmodeau.github.io/posts/new-years-resolution/</loc>
@@ -66,6 +87,9 @@
     <lastmod>2021-10-01T16:03:50+10:00</lastmod>
   </url><url>
     <loc>https://sleepmodeau.github.io/about/</loc>
+    <lastmod>2021-05-17T21:29:12+10:00</lastmod>
+  </url><url>
+    <loc>https://sleepmodeau.github.io/about/about/</loc>
     <lastmod>2021-05-17T21:29:12+10:00</lastmod>
   </url><url>
     <loc>https://sleepmodeau.github.io/planned/cvs2-grooves-accessibility/</loc>

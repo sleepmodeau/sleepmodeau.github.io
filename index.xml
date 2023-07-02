@@ -1,12 +1,11 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Sleepmode</title>
+    <title></title>
     <link>https://sleepmodeau.github.io/</link>
-    <description>Recent content on Sleepmode</description>
+    <description>Recent content on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>This work is licensed under a [WTFPL](http://www.wtfpl.net/about/) license.</copyright>
     <lastBuildDate>Sat, 10 Jun 2023 16:10:54 +1000</lastBuildDate><atom:link href="https://sleepmodeau.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Playing OutRun 2SP in $CURRENT_YEAR</title>
@@ -100,6 +99,88 @@ Capcom Capcom revealed two new characters for the upcoming Street Fighter 6 &amp
       
       <guid>https://sleepmodeau.github.io/posts/love-learn-let-go/</guid>
       <description>Prior to Guilty Gear Strive and Dragon Ball FighterZ, Arc System Works&amp;rsquo; three most prolific and popular fighting games were Guilty Gear XX Accent Core +R, Guilty Gear Xrd Rev2 and BlazBlue Centralfiction. These are all games I&amp;rsquo;ve spent varying &amp;ndash; but generally large &amp;ndash; amounts of time with, and my opinions of them have varied accordingly. My rocky relationship with all three of these games is well-documented, here and elsewhere, but I feel like I&amp;rsquo;ve come to a pretty clear idea of how I feel about all these games.</description>
+    </item>
+    
+    <item>
+      <title>Links</title>
+      <link>https://sleepmodeau.github.io/links/links/</link>
+      <pubDate>Sat, 12 Feb 2022 18:14:11 +1000</pubDate>
+      
+      <guid>https://sleepmodeau.github.io/links/links/</guid>
+      <description>Socials twt/SleepmodeAU
+I (unfortunately) use Twitter a lot, and will probably continue to use it until it implodes due to one man&amp;rsquo;s unfathomable arrogance and ineptitude. Follow me there to keep up with my day-to-day thoughts on things and maybe even make fun of me for them.
+fedi/Sleepmode@gayrobot.club
+I&amp;rsquo;ve been on the Fediverse for a while, mostly just bumming about on my friend&amp;rsquo;s instance. This will mostly be relevant to you if you&amp;rsquo;re on FGC.</description>
+    </item>
+    
+    <item>
+      <title>My New Year&#39;s Resolution</title>
+      <link>https://sleepmodeau.github.io/posts/new-years-resolution/</link>
+      <pubDate>Fri, 07 Jan 2022 23:33:52 +1000</pubDate>
+      
+      <guid>https://sleepmodeau.github.io/posts/new-years-resolution/</guid>
+      <description>In my last piece, I may have said a few things about my feelings on Guilty Gear XX Accent Core +R and BlazBlue Central Fiction. Those feelings may have been largely negative feelings where I admitted my frustrations and losses came from a lack of knowledge, but then I rationalised my lack of desire to play these games as simply not wanting to fill those gaps in my knowledge.
+I can&amp;rsquo;t help but feel like I was scrubquoting hard in doing so.</description>
+    </item>
+    
+    <item>
+      <title>Sleepmode&#39;s 2021 Gaming Recap</title>
+      <link>https://sleepmodeau.github.io/posts/2021-games-recap/</link>
+      <pubDate>Sun, 02 Jan 2022 15:52:54 +1000</pubDate>
+      
+      <guid>https://sleepmodeau.github.io/posts/2021-games-recap/</guid>
+      <description>So 2021 happened. I was originally going to introduce this piece with a brief overview of the political situation under COVID-19 as a way to contrast how awful the year was with some personal levity, but the idea of jumping from &amp;ldquo;the far right is growing out of an anti-vaccine movement while governments continue to glibly allow their citizens to die from a preventable disease and ordinary people try pick up the slack where their leaders and fascist/fascist-adjacent neighbours have failed&amp;rdquo; to talking about the video games I played this past year felt like a bit too strong of a tonal whiplash.</description>
+    </item>
+    
+    <item>
+      <title>Create.</title>
+      <link>https://sleepmodeau.github.io/posts/creativity/</link>
+      <pubDate>Fri, 19 Nov 2021 16:14:37 +1000</pubDate>
+      
+      <guid>https://sleepmodeau.github.io/posts/creativity/</guid>
+      <description>I used to be very insecure about my creative ability.
+This insecurity has long since passed, now that I&amp;rsquo;m older and generally more confident, but it&amp;rsquo;s something that I do reflect on from time to time. After all, when you&amp;rsquo;re surrounded by so many people who can do incredible things &amp;ndash; visual artists, graphic designers, musicians, voice over artists and just about everything else you can think of &amp;ndash; it&amp;rsquo;s hard not to feel like you need to &amp;ldquo;measure up&amp;rdquo; to them in some way, and equally hard not to feel discouraged or even depressed when you can&amp;rsquo;t &amp;ldquo;create&amp;rdquo; works of art the way the people around you are seemingly able to.</description>
+    </item>
+    
+    <item>
+      <title>New Players Are Not Stupid Pt.2</title>
+      <link>https://sleepmodeau.github.io/posts/new-players-are-not-stupid-2/</link>
+      <pubDate>Wed, 06 Oct 2021 22:45:13 +1000</pubDate>
+      
+      <guid>https://sleepmodeau.github.io/posts/new-players-are-not-stupid-2/</guid>
+      <description>I think, fundamentally, engaging with any video game (but especially a fighting game) is akin to a conversation between developer and player.
+As a developer, your goal should be to confidently communicate your game&amp;rsquo;s mechanics to your player, and trust that the player will be able to keep up. There&amp;rsquo;s a delicate balance here, though &amp;ndash; say too little, and your player won&amp;rsquo;t feel comfortable contributing to the conversation on their own.</description>
+    </item>
+    
+    <item>
+      <title>Exodus</title>
+      <link>https://sleepmodeau.github.io/posts/exodus/</link>
+      <pubDate>Fri, 01 Oct 2021 16:03:50 +1000</pubDate>
+      
+      <guid>https://sleepmodeau.github.io/posts/exodus/</guid>
+      <description>Welcome.
+This is my new blog, hosted on Github Pages and running on Hugo (after much fighting with inscrutable software dev nerd shit). It&amp;rsquo;s here because I got sick of Wordpress being clunky and locking useful quality of life features behind a paywall. Hopefully this way you won&amp;rsquo;t need uBlock Origin so much.
+For what it&amp;rsquo;s worth, the old blog is not being deleted, just deprecated &amp;ndash; I&amp;rsquo;ll be keeping all of my old writings there for archival purposes.</description>
+    </item>
+    
+    <item>
+      <title>About</title>
+      <link>https://sleepmodeau.github.io/about/about/</link>
+      <pubDate>Mon, 17 May 2021 21:29:12 +1000</pubDate>
+      
+      <guid>https://sleepmodeau.github.io/about/about/</guid>
+      <description>Orin (aka Sleepmode)
+I&amp;rsquo;m an Australian video game enthusiast with a particular love of fighting games and arcade-style tests of skill. This place is usually where you can find me writing about that, and sometimes other things. Older writings can be found on my Wordpress Blog, which is no longer in use because I hate QOL features being locked behind a paywall.
+Links to my Twitter, Twitch and Youtube channels can all be found below, as well as on my links page.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://sleepmodeau.github.io/planned/cvs2-grooves-accessibility/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://sleepmodeau.github.io/planned/cvs2-grooves-accessibility/</guid>
+      <description>So, Noah Caldwell-Gervais just put out a new video where he reviews From Software&amp;rsquo;s biggest three non-Dark Souls titles &amp;ndash; Bloodborne, Sekiro: Shadows Die Twice, and Elden Ring. After I got over the excitement of getting another four whole hours of Noah&amp;rsquo;s admirable insight and enviable way with words, I got to a point in the video where he had begun discussing his perspective on the way FromSoft tends to approach difficulty, in that their games often allow players to subtlely tailor the game&amp;rsquo;s challenge to their skill level and preferences.</description>
     </item>
     
   </channel>

@@ -1,12 +1,11 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Planneds on Sleepmode</title>
+    <title>Planned on </title>
     <link>https://sleepmodeau.github.io/planned/</link>
-    <description>Recent content in Planneds on Sleepmode</description>
+    <description>Recent content in Planned on </description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <copyright>This work is licensed under a [WTFPL](http://www.wtfpl.net/about/) license.</copyright><atom:link href="https://sleepmodeau.github.io/planned/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language><atom:link href="https://sleepmodeau.github.io/planned/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title></title>
       <link>https://sleepmodeau.github.io/planned/cvs2-grooves-accessibility/</link>

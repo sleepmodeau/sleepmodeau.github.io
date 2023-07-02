@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Series on </title>
+    <link>https://sleepmodeau.github.io/series/</link>
+    <description>Recent content in Series on </description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 29 Dec 2022 20:37:42 +1000</lastBuildDate><atom:link href="https://sleepmodeau.github.io/series/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Sleepmode Year In Review</title>
+      <link>https://sleepmodeau.github.io/series/sleepmode-year-in-review/</link>
+      <pubDate>Thu, 29 Dec 2022 20:37:42 +1000</pubDate>
+      
+      <guid>https://sleepmodeau.github.io/series/sleepmode-year-in-review/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
