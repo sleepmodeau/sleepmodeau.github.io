@@ -2,40 +2,32 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Other on </title>
-    <link>https://sleepmodeau.github.io/tags/other/</link>
+    <link>https://sleepmodeau.neocities.org/tags/other/</link>
     <description>Recent content in Other on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 08 Nov 2022 17:13:32 +1000</lastBuildDate><atom:link href="https://sleepmodeau.github.io/tags/other/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 08 Nov 2022 17:13:32 +1000</lastBuildDate>
+    <atom:link href="https://sleepmodeau.neocities.org/tags/other/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Optimising a Vroid Model for VRChat</title>
-      <link>https://sleepmodeau.github.io/posts/vroid-vrchat-optimisation-guide/</link>
+      <link>https://sleepmodeau.neocities.org/posts/vroid-vrchat-optimisation-guide/</link>
       <pubDate>Tue, 08 Nov 2022 17:13:32 +1000</pubDate>
-      
-      <guid>https://sleepmodeau.github.io/posts/vroid-vrchat-optimisation-guide/</guid>
+      <guid>https://sleepmodeau.neocities.org/posts/vroid-vrchat-optimisation-guide/</guid>
       <description>A pretty popular and accessible way of creating custom avatars for VRChat is by using Vroid Studio, a program mostly used to create character models for vtubers. Unfortunately, VRChat has pretty strict limitations on how avatar models can actually be constructed and displayed in a session without setting people&amp;rsquo;s computers on fire1, and Vroid models by default will flagrantly ignore all those limitations in the pursuit of making your brand new anime femboy self-actualisation vehicle as cute as programmatically possible.</description>
     </item>
-    
     <item>
       <title>Create.</title>
-      <link>https://sleepmodeau.github.io/posts/creativity/</link>
+      <link>https://sleepmodeau.neocities.org/posts/creativity/</link>
       <pubDate>Fri, 19 Nov 2021 16:14:37 +1000</pubDate>
-      
-      <guid>https://sleepmodeau.github.io/posts/creativity/</guid>
-      <description>I used to be very insecure about my creative ability.
-This insecurity has long since passed, now that I&amp;rsquo;m older and generally more confident, but it&amp;rsquo;s something that I do reflect on from time to time. After all, when you&amp;rsquo;re surrounded by so many people who can do incredible things &amp;ndash; visual artists, graphic designers, musicians, voice over artists and just about everything else you can think of &amp;ndash; it&amp;rsquo;s hard not to feel like you need to &amp;ldquo;measure up&amp;rdquo; to them in some way, and equally hard not to feel discouraged or even depressed when you can&amp;rsquo;t &amp;ldquo;create&amp;rdquo; works of art the way the people around you are seemingly able to.</description>
+      <guid>https://sleepmodeau.neocities.org/posts/creativity/</guid>
+      <description>I used to be very insecure about my creative ability.&#xA;This insecurity has long since passed, now that I&amp;rsquo;m older and generally more confident, but it&amp;rsquo;s something that I do reflect on from time to time. After all, when you&amp;rsquo;re surrounded by so many people who can do incredible things &amp;ndash; visual artists, graphic designers, musicians, voice over artists and just about everything else you can think of &amp;ndash; it&amp;rsquo;s hard not to feel like you need to &amp;ldquo;measure up&amp;rdquo; to them in some way, and equally hard not to feel discouraged or even depressed when you can&amp;rsquo;t &amp;ldquo;create&amp;rdquo; works of art the way the people around you are seemingly able to.</description>
     </item>
-    
     <item>
       <title>Exodus</title>
-      <link>https://sleepmodeau.github.io/posts/exodus/</link>
+      <link>https://sleepmodeau.neocities.org/posts/exodus/</link>
       <pubDate>Fri, 01 Oct 2021 16:03:50 +1000</pubDate>
-      
-      <guid>https://sleepmodeau.github.io/posts/exodus/</guid>
-      <description>Welcome.
-This is my new blog, hosted on Github Pages and running on Hugo (after much fighting with inscrutable software dev nerd shit). It&amp;rsquo;s here because I got sick of Wordpress being clunky and locking useful quality of life features behind a paywall. Hopefully this way you won&amp;rsquo;t need uBlock Origin so much.
-For what it&amp;rsquo;s worth, the old blog is not being deleted, just deprecated &amp;ndash; I&amp;rsquo;ll be keeping all of my old writings there for archival purposes.</description>
+      <guid>https://sleepmodeau.neocities.org/posts/exodus/</guid>
+      <description>Welcome.&#xA;This is my new blog, hosted on Github Pages and running on Hugo (after much fighting with inscrutable software dev nerd shit). It&amp;rsquo;s here because I got sick of Wordpress being clunky and locking useful quality of life features behind a paywall. Hopefully this way you won&amp;rsquo;t need uBlock Origin so much.&#xA;For what it&amp;rsquo;s worth, the old blog is not being deleted, just deprecated &amp;ndash; I&amp;rsquo;ll be keeping all of my old writings there for archival purposes.</description>
     </item>
-    
   </channel>
 </rss>

@@ -2,9 +2,10 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Links on </title>
-    <link>https://sleepmodeau.github.io/links/</link>
+    <link>https://sleepmodeau.neocities.org/links/</link>
     <description>Recent content in Links on </description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="https://sleepmodeau.github.io/links/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language>
+    <atom:link href="https://sleepmodeau.neocities.org/links/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

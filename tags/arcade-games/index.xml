@@ -2,19 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Arcade games on </title>
-    <link>https://sleepmodeau.github.io/tags/arcade-games/</link>
+    <link>https://sleepmodeau.neocities.org/tags/arcade-games/</link>
     <description>Recent content in Arcade games on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 10 Jun 2023 16:10:54 +1000</lastBuildDate><atom:link href="https://sleepmodeau.github.io/tags/arcade-games/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 10 Jun 2023 16:10:54 +1000</lastBuildDate>
+    <atom:link href="https://sleepmodeau.neocities.org/tags/arcade-games/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Playing OutRun 2SP in $CURRENT_YEAR</title>
-      <link>https://sleepmodeau.github.io/posts/outrun-2-in-current-year/</link>
+      <link>https://sleepmodeau.neocities.org/posts/outrun-2-in-current-year/</link>
       <pubDate>Sat, 10 Jun 2023 16:10:54 +1000</pubDate>
-      
-      <guid>https://sleepmodeau.github.io/posts/outrun-2-in-current-year/</guid>
+      <guid>https://sleepmodeau.neocities.org/posts/outrun-2-in-current-year/</guid>
       <description>In 1986, a man named Yu Suzuki, along with a small handful of developers at SEGA AM2, would release an arcade racing game called OutRun. Suzuki had previously made some fairly successful motorcycle racing games for SEGA by way of Hang-On and Enduro Racer, and with OutRun, he sought to create a racing game predicated primarily on allowing players to enjoy the experience of driving and, in his words, &amp;ldquo;feel superior&amp;rdquo;1.</description>
     </item>
-    
   </channel>
 </rss>
