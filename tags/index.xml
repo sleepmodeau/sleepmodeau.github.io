@@ -2,38 +2,38 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on </title>
-    <link>https://sleepmodeau.neocities.org/tags/</link>
+    <link>https://sleepmodeau.github.io/tags/</link>
     <description>Recent content in Tags on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 10 Jun 2023 16:10:54 +1000</lastBuildDate>
-    <atom:link href="https://sleepmodeau.neocities.org/tags/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://sleepmodeau.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Arcade games</title>
-      <link>https://sleepmodeau.neocities.org/tags/arcade-games/</link>
+      <link>https://sleepmodeau.github.io/tags/arcade-games/</link>
       <pubDate>Sat, 10 Jun 2023 16:10:54 +1000</pubDate>
-      <guid>https://sleepmodeau.neocities.org/tags/arcade-games/</guid>
+      <guid>https://sleepmodeau.github.io/tags/arcade-games/</guid>
       <description></description>
     </item>
     <item>
       <title>Fighting games</title>
-      <link>https://sleepmodeau.neocities.org/tags/fighting-games/</link>
+      <link>https://sleepmodeau.github.io/tags/fighting-games/</link>
       <pubDate>Sun, 19 Feb 2023 23:56:28 +1000</pubDate>
-      <guid>https://sleepmodeau.neocities.org/tags/fighting-games/</guid>
+      <guid>https://sleepmodeau.github.io/tags/fighting-games/</guid>
       <description></description>
     </item>
     <item>
       <title>Yearly Recap</title>
-      <link>https://sleepmodeau.neocities.org/tags/yearly-recap/</link>
+      <link>https://sleepmodeau.github.io/tags/yearly-recap/</link>
       <pubDate>Thu, 29 Dec 2022 20:37:42 +1000</pubDate>
-      <guid>https://sleepmodeau.neocities.org/tags/yearly-recap/</guid>
+      <guid>https://sleepmodeau.github.io/tags/yearly-recap/</guid>
       <description></description>
     </item>
     <item>
       <title>Other</title>
-      <link>https://sleepmodeau.neocities.org/tags/other/</link>
+      <link>https://sleepmodeau.github.io/tags/other/</link>
       <pubDate>Tue, 08 Nov 2022 17:13:32 +1000</pubDate>
-      <guid>https://sleepmodeau.neocities.org/tags/other/</guid>
+      <guid>https://sleepmodeau.github.io/tags/other/</guid>
       <description></description>
     </item>
   </channel>
