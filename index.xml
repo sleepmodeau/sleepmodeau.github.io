@@ -6,8 +6,15 @@
     <description>Recent content on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 10 Jun 2023 16:10:54 +1000</lastBuildDate>
+    <lastBuildDate>Sun, 14 Jan 2024 14:22:34 +1000</lastBuildDate>
     <atom:link href="https://sleepmodeau.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Sleepmode Year In Review: 2023 Edition</title>
+      <link>https://sleepmodeau.github.io/posts/2023-recap/</link>
+      <pubDate>Sun, 14 Jan 2024 14:22:34 +1000</pubDate>
+      <guid>https://sleepmodeau.github.io/posts/2023-recap/</guid>
+      <description>For most normal people, two weeks into the new year would be a pretty sensible time to put out a yearly retrospective piece. Unfortunately, I am not normal, and so the only reason why I didn&amp;rsquo;t get this piece out earlier is because my SSD died, and in replacing it, I temporarily lost access to this website&amp;rsquo;s local markdown files1, and thus was unable to do much of anything with the website until I got that sorted.</description>
+    </item>
     <item>
       <title>Playing OutRun 2SP in $CURRENT_YEAR</title>
       <link>https://sleepmodeau.github.io/posts/outrun-2-in-current-year/</link>
