@@ -6,8 +6,15 @@
     <description>Recent content on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 14 Jan 2024 14:22:34 +1000</lastBuildDate>
+    <lastBuildDate>Thu, 21 Mar 2024 21:37:24 +1000</lastBuildDate>
     <atom:link href="https://sleepmodeau.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Welcome to the Archive</title>
+      <link>https://sleepmodeau.github.io/archive/welcome-archive/</link>
+      <pubDate>Thu, 21 Mar 2024 21:37:24 +1000</pubDate>
+      <guid>https://sleepmodeau.github.io/archive/welcome-archive/</guid>
+      <description>I&amp;rsquo;m no stranger to making bad posts.&#xA;That sort of thing happens to the best of us from time to time. A misinformed take, a misplaced sentiment, a misspoken thought. Sometimes you make something that doesn&amp;rsquo;t need to be made. Sometimes you&amp;rsquo;re just flat-out wrong about something.&#xA;This section of the website is basically a quarantine zone for all the times where I&amp;rsquo;ve done exactly that. I don&amp;rsquo;t want the works found here to be publicly distributed, necessarily, but I think it&amp;rsquo;s worth keeping them somewhere on the website if only for the sake of honesty and clarity.</description>
+    </item>
     <item>
       <title>Sleepmode Year In Review: 2023 Edition</title>
       <link>https://sleepmodeau.github.io/posts/2023-recap/</link>
@@ -44,6 +51,13 @@
       <description>As I&amp;rsquo;ve gotten older, more mature and more experienced with the fighting game genre, I&amp;rsquo;ve managed to become pretty good at honestly assessing my feelings about particular games. This honesty really reached a strong point of development when I finally realised that I didn&amp;rsquo;t like BlazBlue Central Fiction all that much (you can read about that in my article &amp;ldquo;Learning to Love, to Learn and to Let Go&amp;rdquo;), and it&amp;rsquo;s come to carry forward into another game which I&amp;rsquo;ve had a fraught relationship with &amp;ndash; Super Smash Bros.</description>
     </item>
     <item>
+      <title>NIKKE: First Impressions</title>
+      <link>https://sleepmodeau.github.io/archive/nikke-first-impressions/</link>
+      <pubDate>Sun, 13 Nov 2022 21:36:00 +1000</pubDate>
+      <guid>https://sleepmodeau.github.io/archive/nikke-first-impressions/</guid>
+      <description>This one&amp;rsquo;s easy. The piece on Goddess of Victory: NIKKE is here because, to be quite frank, I didn&amp;rsquo;t give the game its due diligence. Now, that&amp;rsquo;s not to say that I actually think the game is good or anything - far from it. As I point out in the article itself, I&amp;rsquo;m not the target audience for these kinds of games&amp;hellip; and that&amp;rsquo;s kind of the problem. I wasn&amp;rsquo;t really willing to properly engage with the game and its systems, and so I didn&amp;rsquo;t spend much time bothering to actually learn how the game worked when I played it, and that combined with a few people in my circles comparing it to popular rail shooters just didn&amp;rsquo;t leave me well-equipped to assess the game with much in the way of intellectual honesty or factual accuracy.</description>
+    </item>
+    <item>
       <title>Optimising a Vroid Model for VRChat</title>
       <link>https://sleepmodeau.github.io/posts/vroid-vrchat-optimisation-guide/</link>
       <pubDate>Tue, 08 Nov 2022 17:13:32 +1000</pubDate>
@@ -58,11 +72,25 @@
       <description>I&amp;rsquo;ve missed every discourse cycle for the past few months and god damn it I will not miss this one when there is #content to be created.&#xA;Anyway, here are my scattered thoughts on some of the bigger announcements that were made at the 2022 edition of Evo, everyone&amp;rsquo;s favourite fighting game trade show masquerading as a tournament.1&#xA;Capcom Capcom revealed two new characters for the upcoming Street Fighter 6 &amp;ndash; Juri Han and Kimberly.</description>
     </item>
     <item>
+      <title>Study Guide for Sarah Bryant - VF4FT</title>
+      <link>https://sleepmodeau.github.io/archive/hidden-vf4ft-sarah-study-guide/</link>
+      <pubDate>Tue, 12 Jul 2022 21:36:56 +1000</pubDate>
+      <guid>https://sleepmodeau.github.io/archive/hidden-vf4ft-sarah-study-guide/</guid>
+      <description>This post was originally written shortly after Virtua Fighter 4 Final Tuned had made its way onto Fightcade with rollback netcode. I was really interested in learning Sarah Bryant in that game, and while the resources certainly existed on VFDC, they were somewhat scattered and written in a very of-the-time style. I wrote this to be a kind of &amp;ldquo;cleaned up&amp;rdquo; and more central version of those resources, but when VFDC ended up adding VF4FT proper to its self-hosted wiki, I felt like keeping this up in public would have been stepping on some toes a little bit.</description>
+    </item>
+    <item>
       <title>The Spectator&#39;s Guide to Bloody Roar Extreme</title>
       <link>https://sleepmodeau.github.io/posts/spectator-guide-brex/</link>
       <pubDate>Thu, 19 May 2022 18:09:22 +1000</pubDate>
       <guid>https://sleepmodeau.github.io/posts/spectator-guide-brex/</guid>
       <description>It&amp;rsquo;s that time of year again: Combo Breaker is almost upon us. Of the many FGC majors sprinkled throughout the US, the Chicago, IL event is most notable for its emphasis on spotlighting novel, commuinty-driven brackets &amp;ndash; most notorious are its Mystery Game and Auction tournaments, including the cultural touchstone that was the Sarvets All-Stars tournament from 2018. And while these kinds of events are almost certainly appearing at Combo Breaker 2022, the main stage will also be seeing a new challenger among the likes of Guilty Gear Strive and The King of Fighters XV &amp;ndash; a Nintendo Gamecube game called Bloody Roar Extreme.</description>
+    </item>
+    <item>
+      <title>Hidden Dead or Alive 2 Ayane Notes</title>
+      <link>https://sleepmodeau.github.io/archive/hidden-doa2-ayane-notes/</link>
+      <pubDate>Fri, 25 Mar 2022 22:28:51 +1000</pubDate>
+      <guid>https://sleepmodeau.github.io/archive/hidden-doa2-ayane-notes/</guid>
+      <description>Okay, full disclosure: this was never really made public to begin with. I wrote it in the lead-up to a Dead or Alive 2 tournament that Fraud Krew hosted back in 2022, and rather than risk the Australian Connection on a largely US tournament, I decided to lab out Ayane and see what I could find in the hope that maybe someone else could use this information in my stead.</description>
     </item>
     <item>
       <title>KOF XV Balance Change Proposals</title>
