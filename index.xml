@@ -30,6 +30,48 @@
       <description>For most normal people, two weeks into the new year would be a pretty sensible time to put out a yearly retrospective piece. Unfortunately, I am not normal, and so the only reason why I didn&amp;rsquo;t get this piece out earlier is because my SSD died, and in replacing it, I temporarily lost access to this website&amp;rsquo;s local markdown files1, and thus was unable to do much of anything with the website until I got that sorted.</description>
     </item>
     <item>
+      <title>An Informal History of Sango Guardian Chaos Generation</title>
+      <link>https://sleepmodeau.github.io/cohost/chaos-generation/</link>
+      <pubDate>Thu, 02 Nov 2023 00:04:06 +1000</pubDate>
+      <guid>https://sleepmodeau.github.io/cohost/chaos-generation/</guid>
+      <description>Sango Guardian Chaos Generation (”Sango Guardian” being a localisation of 三国演武, read sānguó yǎnwǔ or sangoku enbu) is one of my favourite poverty fighting games of all time. It is at once shockingly competent and shockingly amateurish &amp;ndash; its explosive, deeply silly gameplay feels fantastic to control; it also is at least 50% stolen assets by volume, with hitsparks from Street Fighter IV and animation skeletons from Street Fighter X Tekken, and every single fighting game mechanic under the sun, from Focus Attacks to aerial Magic Series chains to The King of Fighters XIII’s MAX Mode to Vampire Savior’s hop dashes as a universal mechanic but only if you press down three times.</description>
+    </item>
+    <item>
+      <title>But why is it called Shaq-Fu?</title>
+      <link>https://sleepmodeau.github.io/cohost/shaq-fu/</link>
+      <pubDate>Sun, 29 Oct 2023 23:40:02 +1000</pubDate>
+      <guid>https://sleepmodeau.github.io/cohost/shaq-fu/</guid>
+      <description>*Note: This post was a response to one made by the Bad Game Hall of Fame account noting the anniversary of the release of Shaq-Fu. Much of what I talk about in this post is also discussed in the accompanying article on BGHoF&amp;rsquo;s website.&#xA;I imagine most people probably come to the intuitive inclusion that “it’s Shaquille O’Neal’s nickname with “fu” at the end to evoke kung-fu, because it’s a fighting game.</description>
+    </item>
+    <item>
+      <title>Just Stop Oil: A Psyop? (No. Please stop.)</title>
+      <link>https://sleepmodeau.github.io/cohost/just-stop-oil/</link>
+      <pubDate>Mon, 23 Oct 2023 23:42:44 +1000</pubDate>
+      <guid>https://sleepmodeau.github.io/cohost/just-stop-oil/</guid>
+      <description>About a week or so ago, twxtter was ablaze with fervent discussion about how climate activist group Just Stop Oil interrupted a Tekken 7 tournament match at EGX in the UK.&#xA;https://www.eurogamer.net/just-stop-oil-protestors-arrested-after-interrupting-egx-tournament&#xA;This particular incident and its surrounding discourse has basically all but dissipated by this point and we&amp;rsquo;ve all moved on. Except me. Discussion about it among left-wing people was absolutely infuriating, and it&amp;rsquo;s something that I&amp;rsquo;ve wanted to argue against ever since I saw it, so this is that argument.</description>
+    </item>
+    <item>
+      <title>I read the first 100 chapters of One Piece in a week</title>
+      <link>https://sleepmodeau.github.io/cohost/one-piece-100-chapters/</link>
+      <pubDate>Sun, 17 Sep 2023 23:50:06 +1000</pubDate>
+      <guid>https://sleepmodeau.github.io/cohost/one-piece-100-chapters/</guid>
+      <description>Verdict: that one gif of Danny DeVito saying “I get it now” Now, mind you, I’m certainly no opponent of popular shounen manga &amp;ndash; it wasn’t that long ago that I finished reading Fullmetal Alchemist, and I still keep up with new chapters of Chainsaw Man and Spy X Family. But like, One Piece is just so&amp;hellip; massive. It’s a behemoth, culturally and in its sheer size. So I never really had the motivation to read it.</description>
+    </item>
+    <item>
+      <title>Things I have learned from some very specific labwork in Mortal Kombat Deadly Alliance</title>
+      <link>https://sleepmodeau.github.io/cohost/mortal-kombat-deadly-alliance/</link>
+      <pubDate>Sun, 16 Jul 2023 00:00:58 +1000</pubDate>
+      <guid>https://sleepmodeau.github.io/cohost/mortal-kombat-deadly-alliance/</guid>
+      <description>I&amp;rsquo;m labbing this game because I&amp;rsquo;m planning a series of large-scale changes I would make to the game&amp;rsquo;s systems and balance. I am doing this because I am insane. I don&amp;rsquo;t even know if some of the changes I&amp;rsquo;d propose are within the realm of possibility for a mod or anything, but y&amp;rsquo;know, shoot for the moon, right?&#xA;Anyway, a lot of interactions at this game were understood at a very basic level, but weren&amp;rsquo;t given a whole lot of exploration because the practical effects were enough when you&amp;rsquo;re just trying to play the game, but this lead to some misconceptions about how these particular interactions work.</description>
+    </item>
+    <item>
+      <title>Here’s a stupid thing that I don’t know how to do but would love to figure out</title>
+      <link>https://sleepmodeau.github.io/cohost/outrun-2sp-scores/</link>
+      <pubDate>Mon, 10 Jul 2023 23:54:28 +1000</pubDate>
+      <guid>https://sleepmodeau.github.io/cohost/outrun-2sp-scores/</guid>
+      <description>Back in the arcade heyday of OutRun 2SP, players could submit times and high scores to an official online leaderboard. Because the cabinets weren’t directly connected to the internet back then, the way this worked was that every completed credit would produce a password that players could submit to the now long-defunct outrun.jp website alongside other details like a custom handle and user ID number to update improved scores.</description>
+    </item>
+    <item>
       <title>Playing OutRun 2SP in $CURRENT_YEAR</title>
       <link>https://sleepmodeau.github.io/posts/outrun-2-in-current-year/</link>
       <pubDate>Sat, 10 Jun 2023 16:10:54 +1000</pubDate>
@@ -44,11 +86,32 @@
       <description>You guys don&amp;rsquo;t fucking know how to talk about anything. I mean, I know that Twitter as a format is basically anathema to actual discussion but you could at least try.&#xA;The Twitter account FightstickArt, ostensibly an account centered on showing off people&amp;rsquo;s cool fight sticks and artwork and stuff, took part in the time-honoured tradition of engagement farming by posing a question to FGC twitter: what&amp;rsquo;s most important to you in a fighting game?</description>
     </item>
     <item>
+      <title>I think the way popular discourse talksa bout The Last of Us stinks</title>
+      <link>https://sleepmodeau.github.io/cohost/the-last-of-us/</link>
+      <pubDate>Tue, 17 Jan 2023 23:28:54 +1000</pubDate>
+      <guid>https://sleepmodeau.github.io/cohost/the-last-of-us/</guid>
+      <description>tl;dr the last of us is good and I’m tired of pretending that it’s not&#xA;Like, okay, don’t get me wrong, the way that the mainstream gaming press has talked about both the games and its TV adaptation as if it’s the second coming of Christ absolutely deserves to be made fun of &amp;ndash; as does the way Neil Druckmann huffs his own farts &amp;ndash; because The Last of Us is not that good.</description>
+    </item>
+    <item>
+      <title>I&#39;ve been exploring Marvel vs Capcom 2 again</title>
+      <link>https://sleepmodeau.github.io/cohost/exploring-mvc2/</link>
+      <pubDate>Sun, 08 Jan 2023 23:30:08 +1000</pubDate>
+      <guid>https://sleepmodeau.github.io/cohost/exploring-mvc2/</guid>
+      <description>This has meant watching a lot of match footage &amp;ndash; always welcome, considering that MVC2, even today, has some of the most entertaining commentary in the FGC. MVC2 commentary is very honest, very laid back, laden with jokes and various noises in time with combos, because as much as commentators can and do make great observations about the game, there’s no pressure to be formal or “esports” in any regard &amp;ndash; we’re just hanging out, playing this old-ass game that we’ve always played.</description>
+    </item>
+    <item>
       <title>Sleepmode Year In Review: 2022 Edition</title>
       <link>https://sleepmodeau.github.io/posts/2022-recap/</link>
       <pubDate>Thu, 29 Dec 2022 20:37:42 +1000</pubDate>
       <guid>https://sleepmodeau.github.io/posts/2022-recap/</guid>
       <description>So, uh. I guess 2022 wasn&amp;rsquo;t exactly 2021 Hard Mode, but we can&amp;rsquo;t exactly say there were many&amp;hellip; systemic improvements to the stuff that was fucked about last year, either. I&amp;rsquo;m at least doing okay on a personal level, which means I&amp;rsquo;m in a better position to be working with others to fight for those systemic improvements at least!&#xA;Anyway, this is gonna go on mostly the same beat as the last one of these, though it&amp;rsquo;s not gonna be focused exclusively on games.</description>
+    </item>
+    <item>
+      <title>melonDS is getting netplay soon, so I&#39;ve been revisiting the Bleach DS fighting games</title>
+      <link>https://sleepmodeau.github.io/cohost/bleach-ds/</link>
+      <pubDate>Thu, 01 Dec 2022 23:31:29 +1000</pubDate>
+      <guid>https://sleepmodeau.github.io/cohost/bleach-ds/</guid>
+      <description>God, I played the shit out of these games as a kid.&#xA;Of the two Bleach fighting games for the Nintendo DS, it is usually the second &amp;ndash; Bleach: Dark Souls &amp;ndash; that is remembered fondly. And not without good reason! It&amp;rsquo;s overall a fairly solid fighting game experience (far moreso than you&amp;rsquo;d expect from the DS, sasuga Treasure) with well thought out controls, approachable systems and a huge cast with tons of fanservice.</description>
     </item>
     <item>
       <title>Melee Is Sick, and I Don&#39;t Want to Play It</title>
@@ -135,6 +198,13 @@
       <description>I used to be very insecure about my creative ability.&#xA;This insecurity has long since passed, now that I&amp;rsquo;m older and generally more confident, but it&amp;rsquo;s something that I do reflect on from time to time. After all, when you&amp;rsquo;re surrounded by so many people who can do incredible things &amp;ndash; visual artists, graphic designers, musicians, voice over artists and just about everything else you can think of &amp;ndash; it&amp;rsquo;s hard not to feel like you need to &amp;ldquo;measure up&amp;rdquo; to them in some way, and equally hard not to feel discouraged or even depressed when you can&amp;rsquo;t &amp;ldquo;create&amp;rdquo; works of art the way the people around you are seemingly able to.</description>
     </item>
     <item>
+      <title>Untitled post about L-Cancel</title>
+      <link>https://sleepmodeau.github.io/cohost/l-cancel/</link>
+      <pubDate>Thu, 04 Nov 2021 23:32:27 +1000</pubDate>
+      <guid>https://sleepmodeau.github.io/cohost/l-cancel/</guid>
+      <description>So people are talking about L-cancel in Super Smash Bros Melee over in Elon’s World, and I have thoughts on this topic which would be better expressed in a single post than in a twitter thread.&#xA;Broadly speaking, the reason I’m not particularly against somewhat steep execution requirements for basic or staple techniques in fighting games is because as much as they can be a hurdle to a new player playing their platonic ideal of any given fighting game, these execution demands can be a valid aspect of balancing considerations, but more importantly, execution is a concretely measurable skill &amp;ndash; a new player may not have enough game sense or knowledge to understand whether or not their neutral (nebulous as it is) is better than it was when they started, but they do have the observational skills to see that their schmoovement is way cleaner than it was a week ago.</description>
+    </item>
+    <item>
       <title>New Players Are Not Stupid Pt.2</title>
       <link>https://sleepmodeau.github.io/posts/new-players-are-not-stupid-2/</link>
       <pubDate>Wed, 06 Oct 2021 22:45:13 +1000</pubDate>
@@ -154,6 +224,13 @@
       <pubDate>Mon, 17 May 2021 21:29:12 +1000</pubDate>
       <guid>https://sleepmodeau.github.io/about/about/</guid>
       <description>Orin (aka Sleepmode)&#xA;I&amp;rsquo;m an Australian video game enthusiast with a particular love of fighting games and arcade-style tests of skill. This place is usually where you can find me writing about that, and sometimes other things. Older writings can be found on my Wordpress Blog, which is no longer in use because I hate QOL features being locked behind a paywall.&#xA;Links to my Twitter, Twitch and Youtube channels can all be found in the sidebar, as well as on my links page.</description>
+    </item>
+    <item>
+      <title>Cohost?</title>
+      <link>https://sleepmodeau.github.io/cohost/cohost-archive-intro/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://sleepmodeau.github.io/cohost/cohost-archive-intro/</guid>
+      <description>Once upon a time, a group of people formed a software development cooperative. They would come to be known as the anti-software software club. they had a vision for a new type of social media platform - the old type. One driven not by algorithms, impressions and engagement metrics; but by community and good old-fashioned Posting. That social media platform would come to be known as Cohost.&#xA;Cohost had a lot going against it - cooperatives often do, on account of all the Capitalism stinking up the place - and its developers were a bit idealistic, perhaps even somewhat naive.</description>
     </item>
   </channel>
 </rss>
